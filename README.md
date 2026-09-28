@@ -41,6 +41,8 @@
 
 <br><br>
 
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1&color=CECAC9&center=true&repeat=false&width=435&height=20&lines=PONYTOWNS+ENTITLED+CHARACTERS)](https://git.io/typing-svg)
 
 <hr>
