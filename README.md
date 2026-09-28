@@ -49,12 +49,13 @@
 
 <div align="center">
 
-[@plsticpup](https://github.com/plsticpup) is ponytown’s entitled $$\color{#A66A6A}\text{jason todd}$$
+[@plsticpup](https://github.com/plsticpup) is ponytown’s entitled $$\color{#A66A6A}\text{Jason Todd}$$
 
 </div>
 
-[@luminous](https://github.com/uniicornkitty) 
-is ponytown’s entitled $$\color{#FF9FB7}\text{eve wilkins}$$
+[@luminous](https://github.com/uniicornkitty) is ponytown’s entitled $$\color{#FF9FB7}\text{Eve Wilkins}$$
+
+[@ilovegraysons](https://github.com/ilovegraysons) is ponytown’s entitled $$\color{#9FD8FF}\text{Mark Grayson}$$
 
 
 <br> <br>
