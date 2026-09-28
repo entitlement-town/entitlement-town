@@ -57,6 +57,7 @@
 
 [@ilovegraysons](https://github.com/ilovegraysons) is ponytown’s entitled $$\color{#9FD8FF}\text{Mark Grayson}$$
 
+[@timstalkerdrake](https://github.com/timstalkerdrake) is ponytown’s entitled $$\color{#E5B055}\text{Tim Drake}$$
 
 <br> <br>
 <br>
