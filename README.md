@@ -27,7 +27,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1&color=B9C0BC&center=true&multiline=true&repeat=false&width=435&height=200&lines=nominate+here++++++%28%E7%81%AC%C2%BA%CF%89%C2%BA%E7%81%AC%29%E2%99%A1)](https://git.io/typing-svg)     
 
-<div align="right">
+<div align="left">
 
 [here](https://entitlement-town.straw.page)
 
@@ -35,9 +35,18 @@
   
   [here](https://entitlement-town.straw.page)
   
-<div align="center">
+<div align="right">
 
 &nbsp;&nbsp; [here](https://entitlement-town.straw.page)
 
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1&color=CECAC9&center=true&repeat=false&width=435&height=20&lines=PONYTOWNS+ENTITLED+CHARACTERS)](https://git.io/typing-svg)
 
 <hr>
+
+[@plsticpup](https://github.com/plsticpup) is ponytown’s entitled $$\color{#A66A6A}\text{jason todd}$$
+
+<br> <br>
+<br>
+<img width="543" height="64" alt="IMG_8021" src="https://github.com/user-attachments/assets/6650a19a-38c5-4d3f-8b7f-a71ce88e7531" />
