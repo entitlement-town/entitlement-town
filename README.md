@@ -45,8 +45,15 @@
 
 <hr>
 
+<div align="center">
+
 [@plsticpup](https://github.com/plsticpup) is ponytown’s entitled $$\color{#A66A6A}\text{jason todd}$$
+
+</div>
 
 <br> <br>
 <br>
+
+<div align="center">
+  
 <img width="543" height="64" alt="IMG_8021" src="https://github.com/user-attachments/assets/6650a19a-38c5-4d3f-8b7f-a71ce88e7531" />
