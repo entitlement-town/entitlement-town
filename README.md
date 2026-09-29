@@ -61,6 +61,8 @@
 
 [@pupology](https://github.com/pupology) is ponytown’s entitled $$\color{#E77229}\text{Roy Harper}$$
 
+[@bannysuperman](https://github.com/bannysuperman) is ponytown’s entitled $$\color{#2885FF}\text{Clark Kent}$$
+
 <br> <br>
 <br>
 
