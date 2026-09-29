@@ -65,7 +65,7 @@
 
 [@cpn-cook](https://github.com/cpn-cook) is ponytown’s entitled $$\color{#8DAF88}\text{Jerry Smith}$$
 
-[@mkoholic](https://github.com/mkoholic) is ponytown’s entitled $$\color{#CE4D41}\text{MK}$$
+[@JAWS0DEATH](https://github.com/JAWS0DEATH) is ponytown’s entitled $$\color{#B32C20}\text{Batman Beyond}$$
 
 <br> <br>
 <br>
