@@ -59,6 +59,8 @@
 
 [@timstalkerdrake](https://github.com/timstalkerdrake) is ponytown’s entitled $$\color{#E5B055}\text{Tim Drake}$$
 
+[@pupology](https://github.com/pupology) is ponytown’s entitled $$\color{#E77229}\text{Roy Harper}$$
+
 <br> <br>
 <br>
 
