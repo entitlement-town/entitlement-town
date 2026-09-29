@@ -69,6 +69,10 @@
 
 [@mkoholic](https://github.com/mkoholic) is ponytown’s entitled $$\color{#DF7153}\text{MK}$$
 
+[@v0xt3k](https://github.com/v0xt3k) is ponytown’s entitled $$\color{#80D0FE}\text{Vox}$$
+
+[@sketchyremorse](https://github.com/sketchyremorse) is ponytown’s entitled $$\color{#A87CDB}\text{Stephanie Brown}$$
+
 <br> <br>
 <br>
 
