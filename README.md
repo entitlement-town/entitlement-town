@@ -63,6 +63,10 @@
 
 [@sweetdeathstar](https://github.com/sweetdeathstar) is ponytown’s entitled $$\color{#E6BD8D}\text{Cassandra Cain}$$
 
+[@cpn-cook](https://github.com/cpn-cook) is ponytown’s entitled $$\color{#8DAF88}\text{Jerry Smith}$$
+
+[@mkoholic](https://github.com/mkoholic) is ponytown’s entitled $$\color{#CE4D41}\text{MK}$$
+
 <br> <br>
 <br>
 
