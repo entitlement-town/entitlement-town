@@ -53,8 +53,6 @@
 
 </div>
 
-[@luminous](https://github.com/uniicornkitty) is ponytown’s entitled $$\color{#FF9FB7}\text{Eve Wilkins}$$
-
 [@ilovegraysons](https://github.com/ilovegraysons) is ponytown’s entitled $$\color{#9FD8FF}\text{Mark Grayson}$$
 
 [@timstalkerdrake](https://github.com/timstalkerdrake) is ponytown’s entitled $$\color{#E5B055}\text{Tim Drake}$$
