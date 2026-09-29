@@ -63,6 +63,8 @@
 
 [@bannysuperman](https://github.com/bannysuperman) is ponytown’s entitled $$\color{#2885FF}\text{Clark Kent}$$
 
+[@sweatdeathstar](https://github.com/sweatdeathstar) is ponytown’s entitled $$\color{#7B5988}\text{Cassandra Cain}$$
+
 <br> <br>
 <br>
 
