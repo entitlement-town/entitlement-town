@@ -81,6 +81,8 @@
 
 [@cashreggister](https://github.com/cashreggister) is ponytown’s entitled $$\color{#ECDE85}\text{Goomy}$$
 
+[@TREVPHILIPS](https://github.com/TREVPHILIPS) is ponytown’s entitled $$\color{#AD1C1C}\text{Marilyn Manson}$$
+
 <br> <br>
 <br>
 
