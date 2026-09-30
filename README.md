@@ -73,6 +73,9 @@
 
 [@sketchyremorse](https://github.com/sketchyremorse) is ponytown’s entitled $$\color{#A87CDB}\text{Stephanie Brown}$$
 
+[@oraclegordon](https://github.com/oraclegordon) is ponytown’s entitled $$\color{#C3763B}\text{Barbara Gordon}$$
+
+[@PYRlTE](https://github.com/PYRlTE) is ponytown’s entitled $$\color{#791828}\text{Kate Kane}$$
 <br> <br>
 <br>
 
