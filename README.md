@@ -76,6 +76,11 @@
 [@oraclegordon](https://github.com/oraclegordon) is ponytown’s entitled $$\color{#C3763B}\text{Barbara Gordon}$$
 
 [@PYRlTE](https://github.com/PYRlTE) is ponytown’s entitled $$\color{#791828}\text{Kate Kane}$$
+
+[@duckseatbreads](https://github.com/duckseatbreads) is ponytown’s entitled $$\color{#93EC7F}\text{John Jones}$$
+
+[@cashreggister](https://github.com/cashreggister) is ponytown’s entitled $$\color{#ECDE85}\text{Goomy}$$
+
 <br> <br>
 <br>
 
