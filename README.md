@@ -1,14 +1,14 @@
 
 <div align="center">
-<img width="543" height="64" alt="IMG_8026" src="https://github.com/user-attachments/assets/7458feae-e177-4c3e-801b-acfea0dcace5" />
+<img width="543" alt="IMG_8026" src="https://github.com/user-attachments/assets/7458feae-e177-4c3e-801b-acfea0dcace5" />
 
-<img width="958" height="173" alt="IMG_8022" src="https://github.com/user-attachments/assets/9f04c5bb-587f-4dec-b923-091e517a8f1b" />
+<img width="958" alt="IMG_8022" src="https://github.com/user-attachments/assets/9f04c5bb-587f-4dec-b923-091e517a8f1b" />
 
 
 <table>
   <tr>
     <td align="center" valign="middle">
-<img width="400" height="416" alt="IMG_8023" src="https://github.com/user-attachments/assets/4aff9c3b-59fe-4a5d-8e4d-22c5d12b3aab" />
+<img width="400" alt="IMG_8023" src="https://github.com/user-attachments/assets/4aff9c3b-59fe-4a5d-8e4d-22c5d12b3aab" />
 
   </td>
 
@@ -18,7 +18,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1&pause=1&color=B9C0BC&center=true&multiline=true&repeat=false&width=435&height=200&lines=do+you+want+to+have+the;title+of+a+specific+character%3F;whether+you+kin%2C+yume%2C;or+just+like+them%3F;NOMINATE+YOURSELF+OR+SOMEONE;FOR+THE+ENTITLEMENT!+)](https://git.io/typing-svg)
     </td>
     <td align="center" valign="middle">
-    <img width="400" height="416" alt="IMG_8024" src="https://github.com/user-attachments/assets/3bbc092c-8713-444e-8e2d-2614bdc9824f" />
+    <img width="400" alt="IMG_8024" src="https://github.com/user-attachments/assets/3bbc092c-8713-444e-8e2d-2614bdc9824f" />
   </td>
   </tr>
 </table>
@@ -88,4 +88,4 @@
 
 <div align="center">
   
-<img width="543" height="64" alt="IMG_8021" src="https://github.com/user-attachments/assets/6650a19a-38c5-4d3f-8b7f-a71ce88e7531" />
+<img width="543" alt="IMG_8021" src="https://github.com/user-attachments/assets/6650a19a-38c5-4d3f-8b7f-a71ce88e7531" />
