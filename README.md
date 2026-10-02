@@ -83,7 +83,7 @@
 
 [@TREVPHILIPS](https://github.com/TREVPHILIPS) is ponytown’s entitled $$\color{#AD1C1C}\text{Marilyn Manson}$$
 
-[@stevengrants](https://githubyy.com/stevengrants) is ponytown’s entitled $$\color{#D8D8D8}\text{Moonknight}$$
+[@stevengrants](https://github.com/stevengrants) is ponytown’s entitled $$\color{#D8D8D8}\text{Moonknight}$$
 
 [@catbaret](https://github.com/catbaret) is ponytown’s entitled $$\color{#E698C3}\text{Armand}$$
 
